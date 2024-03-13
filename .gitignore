@@ -11,4 +11,8 @@ bin/
 lib/
 venv/
 env/
-3_Parallelism_2022/
+3_Parallelism_2022/!/pi22-1/
+!/lsbaws/
+!/pi22-2/
+!/pi22-3/
+!/pi22-4/
